@@ -37,13 +37,6 @@
   
 
 ### Dowload pre-trained model:
-
-  
-
-Once everything is ready, you can launch the application by running:
-
-  
-
 ```bash
 
 !wget https://github.com/THU-MIG/yolov10/releases/download/v1.1/yolov10n.pt
